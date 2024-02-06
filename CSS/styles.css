@@ -1,15 +1,15 @@
-:root{
-    /* se definen los colores y fuente de las letras como variables */
-    --clr-claro-200:#F3EEF9;     
-    --clr-primary-400:#824936;
+/* :root{
+     se definen los colores y fuente de las letras como variables 
+    --clr-claro-200:#F3EEF9;      
+     --clr-primary-400:#824936; 
 
     --color-neutral-100:#FFF;
-    --clr-primary-300:#222C2A;
+     --clr-primary-300:#222C2A; 
 
     --ff-primary:"Roboto", sans-serif;
     --ff-accent:"Playfair Display",serif;  
 }
-
+ */
 
 
 
@@ -17,11 +17,11 @@
 
 .color-claro,
 header{
-    background-color: var(--clr-claro-200) ;
+    background-color: #F3EEF9 ;
 }
 
-.nav{
-    background-color: var(--clr-claro-200) !important;
+#navbarNav{
+    background-color: #F3EEF9 ;
 
 }
 
@@ -44,7 +44,7 @@ header{
 /* Inicio Estilos Main */
 
 .container1{
-    background-color: var(--clr-primary-400) ;
+    background-color: #824936 ;
     padding-left:1.25em ;
     padding-right: 1.25em;
     padding-top: 2em;
@@ -54,7 +54,7 @@ header{
 }
 
 .container2{
-    background-color: var(--clr-primary-400) ;
+    background-color: #824936 ;
     padding-left:1.25em ;
     padding-right: 1.25em;
     padding-top: 2em;
@@ -64,7 +64,7 @@ header{
 }
 
 .container3{
-    background-color: var(--clr-primary-400) ;
+    background-color: #824936 ;
     padding-left:1.25em ;
     padding-right: 1.25em;
     padding-top: 2em;
@@ -87,7 +87,7 @@ header{
 }
 
 .container2{
-    background-color: var(--clr-primary-300);
+    background-color: #222C2A;
 }
 
 .image{
